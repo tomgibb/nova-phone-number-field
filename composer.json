@@ -1,6 +1,6 @@
 {
-    "name": "devloops/phone-number",
-    "description": "The Missing Laravel Nova Phone Number Field.",
+    "name": "tomgibb/phone-number",
+    "description": "The Missing Laravel Nova Phone Number Field updated for Nova 5.",
     "keywords": [
         "laravel",
         "nova",
@@ -11,7 +11,7 @@
     ],
     "authors": [
         {
-            "name": "Abdullah Al-Faqeir",
+            "name": "Abdullah Al-Faqeir!",
             "email": "abdullah@devloops.net",
             "role": "Developer"
         }
